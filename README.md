@@ -1,6 +1,6 @@
-![Nexus AI](https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png)
 
-# Nexus AI ChatBot
+
+# ChatBot
 
 ## Installation & Setup
 
